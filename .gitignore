@@ -1,0 +1,12 @@
+# Terraform state and cache
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+
+# Local configs
+*.tfvars
+*.tfvars.json
+
+# OS junk
+.DS_Store
+Thumbs.db
