@@ -52,7 +52,6 @@ git clone https://github.com/YOUR-USERNAME/terraform-aws-ec2-ssh.git
 cd terraform-aws-ec2-ssh
 
 # Customize your settings
-cp terraform.tfvars.example terraform.tfvars
 vim terraform.tfvars
 
 # Initialize Terraform
